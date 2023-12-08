@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Target
   layers:
   - Default
   - TransparentFX
@@ -12,10 +13,10 @@ TagManager:
   - Water
   - UI
   - Out Of Bounds
-  - 
-  - 
-  - 
-  - 
+  - Crowd OOB
+  - Crowd
+  - Road OOB
+  - Road
   - 
   - 
   - 
